@@ -58,8 +58,8 @@
 
 /* Gallery */
 #gallery-container{
-    grid-template-columns: 1fr;
+    flex-direction: column;
 }
 .gallery-image{
-    width: 100%;
+    width: 360px;
 }
