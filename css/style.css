@@ -13,6 +13,7 @@ body{
 a{
     text-decoration: none;
     color: inherit;
+    translate: 1s;
 
 }
 /* BTN */
@@ -225,3 +226,4 @@ a{
     text-align: center;
     align-items: center;
 }
+
